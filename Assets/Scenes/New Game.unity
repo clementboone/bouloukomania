@@ -499,7 +499,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "CAESAR\nVindicatif, orgueilleux et impr\xE9visible parrain du cartel de
-    Cassiop\xE9e.\nBaron du peuple vert."
+    Cassiop\xE9e\nBaron du peuple vert"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 537728637393d644f9694f80add3f372, type: 2}
   m_sharedMaterial: {fileID: -5873891209954472347, guid: 537728637393d644f9694f80add3f372, type: 2}
@@ -833,8 +833,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "OBERON\nV\xE9nal, pernicieux et col\xE9rique roi\nauto-proclam\xE9 d'Orion.\nDespote
-    du peuble jaune."
+  m_text: "OBERON\nV\xE9nal, pernicieux et lunatique roi\nauto-proclam\xE9 d'Orion\nDespote
+    du peuble jaune"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 537728637393d644f9694f80add3f372, type: 2}
   m_sharedMaterial: {fileID: -5873891209954472347, guid: 537728637393d644f9694f80add3f372, type: 2}
@@ -1753,7 +1753,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "SCARLET\nBelliqueuse et arrogante demi-d\xE9esse\ndes Pl\xE9iades.\nGrande
+  m_text: "SCARLET\nCol\xE9rique, belliqueuse et arrogante\ndemi-d\xE9esse des Pl\xE9iades\nGrande
     ma\xEEtresse du peuple rouge"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 537728637393d644f9694f80add3f372, type: 2}
